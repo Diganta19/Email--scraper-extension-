@@ -1,0 +1,13 @@
+{
+  "name": "Email Scraper",
+  "author": "devsbydiagnta",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "iindex.html"
+  },
+  "icons": {
+    "128": "scraper.png"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
